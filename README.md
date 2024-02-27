@@ -1,0 +1,2 @@
+# aishot
+ai + flask
